@@ -48,7 +48,7 @@ function Home() {
             <Product
                 title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric :"
                 id="4909856"
-                price={55}
+                price={99}
                 rating={4}
                 image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
             />
@@ -60,7 +60,7 @@ function Home() {
             <Product
                 id="490545"
                 title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation) :"
-                price={89}
+                price={99}
                 rating={2}
                 image=" https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
             />
@@ -68,7 +68,7 @@ function Home() {
             <Product
                 title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor - Super Ultra Wide Dual WQHD 5120 x 1440"
                 id="4909895"
-                price={99}
+                price={199}
                 rating={5}
                 image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
             />
